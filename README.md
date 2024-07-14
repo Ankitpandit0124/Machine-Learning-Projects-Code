@@ -23,7 +23,6 @@ End-To-End Machine Learning Projects are:
 17. SONAR Rock Vs. Mine Prediction Using Batch,Online Learning, Model and Instance based learning
 18. Human Activity Recognition with Smartphones 
 
-- 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
 - 💬
 
