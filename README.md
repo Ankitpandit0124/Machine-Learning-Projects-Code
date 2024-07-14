@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Priyang Bhatt</h1>
+<h1 align="center">Hi 👋, I'm Ankit kr pandey</h1>
 <h3 align="center">End-To-End Machine learning Projects Using Python</h3>
 
-- 👨‍💻 All Listed Projects are available at https://www.youtube.com/c/priyangbhatt
-
+- 👨‍💻
 End-To-End Machine Learning Projects are:
 
 1. Addition of Two Numbers Using Machine Learning
@@ -26,9 +25,7 @@ End-To-End Machine Learning Projects are:
 
 - 📝 I regularly write articles on End-to-End Machine Learning Projects & Data Anlystics Using Python
 
-- 💬 Ask me about **Machine Learning using Python,Android**
-
-- 📫 How to reach me **bhattpriyang@gmail.com**
+- 💬
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
